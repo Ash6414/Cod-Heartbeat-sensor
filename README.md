@@ -1,4 +1,5 @@
-# Teensy 4.0 RD-03D G550 Radar Display
+#Heartbeat Sensor
+## Teensy 4.0 RD-03D G550 Radar Display
 
 A compact radar visualization project using a **Teensy 4.0**, an **RD-03D G550 mmWave radar module**, and a **Hiletgo 2.8 inch ILI9341 SPI TFT display**. The system reads multi target radar data over UART and displays detected targets on a 2D radar style screen.
 
